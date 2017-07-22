@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: FailingTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.077 sec <<< FAILURE! - in FailingTest
-FailingTest(FailingTest)  Time elapsed: 0.006 sec  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.029 sec <<< FAILURE! - in FailingTest
+FailingTest(FailingTest)  Time elapsed: 0.029 sec  <<< FAILURE!
 java.lang.AssertionError: null
 	at org.junit.Assert.fail(Assert.java:86)
 	at org.junit.Assert.fail(Assert.java:95)
